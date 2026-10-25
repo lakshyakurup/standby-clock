@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import WidgetHub from '@/components/widgets/WidgetHub';
+import WidgetHub from '../components/widgets/WidgetHub';
 import { Sparkles, Moon, Sun, Shield, Settings, Maximize } from 'lucide-react';
 
 export default function StandByPage() {
